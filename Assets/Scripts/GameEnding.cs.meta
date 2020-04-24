@@ -1,9 +1,15 @@
 fileFormatVersion: 2
-guid: 3c2912133fd6d574f81dc713829954dd
+guid: ca4874ee09db0094b9d53f9a266bfcdf
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - player: {fileID: 6077229646317852079, guid: e58a8494f35e17f45ba5bbffdfb92517,
+      type: 3}
+  - exitBackgroundImageCanvasGroup: {instanceID: 0}
+  - exitAudio: {instanceID: 0}
+  - caughtBackgroundImageCanvasGroup: {instanceID: 0}
+  - caughtAudio: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
